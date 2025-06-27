@@ -1,0 +1,8 @@
+# "pip show module" to find version of installed package
+yfinance==0.2.61
+psycopg2-binary==2.9.10
+typer==0.16.0
+rich==14.0.0
+datetime==5.5
+matplotlib==3.10.3
+pytest==8.3.5
